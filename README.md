@@ -1,4 +1,4 @@
-# laravelTestTask
+# Laravel Test Task
 
 ## 1. Database Setup
 - Create a database named `testDB`.
